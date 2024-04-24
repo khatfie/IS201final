@@ -1,0 +1,45 @@
+
+
+
+body {
+    
+    color: black; /* Font color */
+    font-family: 'Arial', sans-serif; /* Font family */
+    background-color: lightblue;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #a74848;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: white; 
+    text-align: center;
+    font-size: 36px; 
+    font-family: 'Impact', sans-serif; 
+    background-color: navy; 
+    padding: 20px; 
+    margin-bottom: 20px; 
+}
+
+img{
+    display: left;
+    margin: 0 auto
+}
+
+.mother {
+    color: green;
+}
+
+.father {
+    color: navy;
+}
+
+.brother {
+    color: red;
+}
